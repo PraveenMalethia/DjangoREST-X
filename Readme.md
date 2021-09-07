@@ -15,11 +15,11 @@
 
 
 ## 📖 Installation
-DjangoX can be installed via Pip, Pipenv, or Docker depending upon your setup. To start, clone the repo to your local computer and change into the proper directory.
+DjangoREST-X can be installed via Pip. To start, clone the repo to your local computer and change into the proper directory.
 
 ```
-$ git clone https://github.com/wsvincent/djangox.git
-$ cd djangox
+$ git clone https://github.com/PraveenMalethia/DjangoREST-X
+$ cd DjangoREST-X
 ```
 
 ### Pip (Windows)
