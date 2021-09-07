@@ -1,4 +1,4 @@
-> A batteries-included Django REST starter project.
+> A batteries-included 🔋 Django REST starter project. 
 
 ## 🚀 Features
 
