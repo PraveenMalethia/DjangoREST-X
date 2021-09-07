@@ -33,7 +33,7 @@ $ cd djangox
 (env) > python manage.py runserver
 # Load the site at http://127.0.0.1:8000
 ```
-### Pip (linux)
+### Pip (linux or mac)
 
 ```
 $ python3 -m venv env
