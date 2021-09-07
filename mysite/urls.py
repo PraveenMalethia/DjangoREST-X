@@ -8,6 +8,6 @@ urlpatterns = [
     path('auth/registration/', include('dj_rest_auth.registration.urls')),
     path('auth/account-confirm-email/', VerifyEmailView.as_view(), name='account_email_verification_sent'),
 
-
+    # Your apps Urls to be included here
     path('',include('pages.urls')),
 ]
