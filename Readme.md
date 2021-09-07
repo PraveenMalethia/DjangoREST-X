@@ -7,5 +7,6 @@
 - User log in/out, sign up, password reset via [django-allauth](https://github.com/pennersr/django-allauth) , [dj-rest-auth](https://dj-rest-auth.readthedocs.io/en/latest/index.html)
 - Static files configured with [Whitenoise](http://whitenoise.evans.io/en/stable/index.html)
 - REST API with [djangorestframework](https://www.django-rest-framework.org/)
+- Importing And Exporting date with [Django-import-export](https://django-import-export.readthedocs.io/en/latest/)
 
 ![Home](home.png)
